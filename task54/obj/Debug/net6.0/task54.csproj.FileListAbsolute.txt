@@ -1,0 +1,15 @@
+C:\projects\Языки программирования\Sem8\task54\bin\Debug\net6.0\task54.exe
+C:\projects\Языки программирования\Sem8\task54\bin\Debug\net6.0\task54.deps.json
+C:\projects\Языки программирования\Sem8\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\projects\Языки программирования\Sem8\task54\bin\Debug\net6.0\task54.dll
+C:\projects\Языки программирования\Sem8\task54\bin\Debug\net6.0\task54.pdb
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.dll
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\refint\task54.dll
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.pdb
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+C:\projects\Языки программирования\Sem8\task54\obj\Debug\net6.0\ref\task54.dll
